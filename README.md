@@ -22,3 +22,13 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=chat.qwen.ai" width="16" style="vertical-align: -15px;"/> [Deep Research](https://chat.qwen.ai/?inputFeature=deep_research): Alibaba's Qwen-powered research assistant (May 14, 2025)
 
 ## Open-Source Implementations
+- [r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag): Reasoning-augmented retrieval-augmented generation framework. ![GitHub Repo stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag?style=social)
+- [nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch): Lightweight deep research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=social)
+- [deep-research (Aomni)](https://github.com/dzhng/deep-research): Deep research platform by Aomni. ![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/deep-research?style=social)
+- [open-deep-research](https://github.com/btahir/open-deep-research): Open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/btahir/open-deep-research?style=social)
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+- [deep-searcher](https://github.com/zilliztech/deep-searcher): Deep search and research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=social)
+- [deep-research (u14app)](https://github.com/u14app/deep-research): Deep research assistant by u14app. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=social)
+- [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
+- [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Node.js deep research toolkit by Jina AI. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
+- [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research): Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=social)
