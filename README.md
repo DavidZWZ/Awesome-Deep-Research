@@ -1,19 +1,19 @@
 # 🤖 Awesome Agentic Deep Research Resources
 
+Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of Agentic Deep Research. We've meticulously curated a collection of resources for you.
+
 <p align="center">
   <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
 </p>
 
-Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of Agentic Deep Research. We've meticulously curated a collection of:
+Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
 
+## Table of Contents
 - 🏢 Industry-leading products and solutions
 - 🔧 Open-source implementations and tools
 - 📚 Latest research papers and breakthroughs
 - 🎯 Evaluation Benchmarks and Practical applications
 
-Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
-
-## Table of Contents
 
 ## Industry-Leading Products
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=gemini.google.com" width="20" style="vertical-align: -10px;"/> [Gemini Deep Research](https://gemini.google/overview/deep-research/?hl=en): Google's advanced research assistant for deep analysis and insights (December 11, 2024)
