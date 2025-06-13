@@ -9,10 +9,10 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
 Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
 
 ## Table of Contents
-- 🏢 Industry-leading products and solutions
-- 🔧 Open-source implementations and tools
-- 📚 Latest research papers and breakthroughs
-- 🎯 Evaluation Benchmarks and Practical applications
+- [🏢 Industry-leading products and solutions](#industry-leading-products)
+- [🔧 Open-source implementations and tools](#open-source-implementations)
+- [📚 Latest research papers and breakthroughs](#research-papers)
+- [🎯 Evaluation Benchmarks and Practical applications](#benchmarks-and-applications)
 
 
 ## Industry-Leading Products
@@ -25,6 +25,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - 🦌 [DeerFlow](https://deerflow.tech/): ByteDance's research and analysis solution (May 9, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=chat.qwen.ai" width="16" style="vertical-align: -15px;"/> [Deep Research](https://chat.qwen.ai/?inputFeature=deep_research): Alibaba's Qwen-powered research assistant (May 14, 2025)
 
+
 ## Open-Source Implementations
 - [r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag): Reasoning-augmented retrieval-augmented generation framework. ![GitHub Repo stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag?style=social)
 - [nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch): Lightweight deep research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=social)
@@ -36,6 +37,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Deep research toolkit to find the right answers. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
 - [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research): Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=social)
+
 
 ## Research Papers
 
@@ -50,3 +52,6 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 | [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://github.com/sentient-agi/OpenDeepSearch) | [2025/03/26](https://github.com/sentient-agi/OpenDeepSearch) [![GitHub stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch?style=social)](https://github.com/sentient-agi/OpenDeepSearch) | GPT, Anthropic, Gemini | N/A |
 | [Webthinker: Empowering large reasoning models with deep research capability](https://github.com/RUC-NLPIR/WebThinker) | [2025/04/30](https://github.com/RUC-NLPIR/WebThinker) [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker) | Llama, Qwen, GPT | DPO |
 | [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-NLP/ZeroSearch) | [2025/05/07](https://github.com/Alibaba-NLP/ZeroSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearch?style=social)](https://github.com/Alibaba-NLP/ZeroSearch) | Llama, Qwen | GRPO, PPO, Reinforce++ |
+
+
+## Benchmarks and Applications
