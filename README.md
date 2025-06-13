@@ -5,7 +5,7 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
 - 🏢 Industry-leading products and solutions
 - 🔧 Open-source implementations and tools
 - 📚 Latest research papers and breakthroughs
-- 🎯 Practical applications and use cases
+- 🎯 Evaluation Benchmarks and Practical applications
 
 Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
 
@@ -30,16 +30,19 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [deep-searcher](https://github.com/zilliztech/deep-searcher): Deep search and research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=social)
 - [deep-research (u14app)](https://github.com/u14app/deep-research): Deep research assistant by u14app. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
-- [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Node.js deep research toolkit by Jina AI. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
+- [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Deep research toolkit to find the right answers. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
 - [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research): Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=social)
 
 ## Research Papers
-- [Agentic Reasoning](https://github.com/theworldofagents/Agentic-Reasoning): [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://github.com/theworldofagents/Agentic-Reasoning) ![GitHub Repo stars](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning?style=social) (February 7, 2025)
-- [DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher): [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://github.com/GAIR-NLP/DeepResearcher) ![GitHub Repo stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=social) (March 26, 2025)
-- [Search-R1](https://github.com/PeterGriffinJin/Search-R1): [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://github.com/PeterGriffinJin/Search-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social) (March 12, 2025)
-- [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher): [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://github.com/RUCAIBox/R1-Searcher) ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher?style=social) (March 7, 2025)
-- [ReSearch](https://github.com/Agent-RL/ReSearch): [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://github.com/Agent-RL/ReSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-RL/ReSearch?style=social) (March 25, 2025)
-- [Search-o1](https://github.com/sunnynexus/Search-o1): [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://github.com/sunnynexus/Search-o1) ![GitHub Repo stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social) (January 9, 2025)
-- [Open Deep Search](https://github.com/sentient-agi/OpenDeepSearch): [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://github.com/sentient-agi/OpenDeepSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch?style=social) (March 26, 2025)
-- [Webthinker](https://github.com/RUC-NLPIR/WebThinker): [Webthinker: Empowering large reasoning models with deep research capability](https://github.com/RUC-NLPIR/WebThinker) ![GitHub Repo stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social) (April 30, 2025)
-- [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch): [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-NLP/ZeroSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearch?style=social) (May 7, 2025)
+
+| Title | Date & Code | Base model | Optimization methods |
+| --- | :---: | :---: | :---: |
+| [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://github.com/theworldofagents/Agentic-Reasoning) | [2025/02/07](https://github.com/theworldofagents/Agentic-Reasoning) [![GitHub stars](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning?style=social)](https://github.com/theworldofagents/Agentic-Reasoning) | Gemini, Deepseek, GPT | N/A |
+| [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://github.com/GAIR-NLP/DeepResearcher) | [2025/03/26](https://github.com/GAIR-NLP/DeepResearcher) [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=social)](https://github.com/GAIR-NLP/DeepResearcher) | Qwen | GRPO |
+| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://github.com/PeterGriffinJin/Search-R1) | [2025/03/12](https://github.com/PeterGriffinJin/Search-R1) [![GitHub stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social)](https://github.com/PeterGriffinJin/Search-R1) | Qwen | GRPO, PPO |
+| [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://github.com/RUCAIBox/R1-Searcher) | [2025/03/07](https://github.com/RUCAIBox/R1-Searcher) [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher?style=social)](https://github.com/RUCAIBox/R1-Searcher) | Llama, Qwen | SFT |
+| [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://github.com/Agent-RL/ReSearch) | [2025/03/25](https://github.com/Agent-RL/ReSearch) [![GitHub stars](https://img.shields.io/github/stars/Agent-RL/ReSearch?style=social)](https://github.com/Agent-RL/ReSearch) | Qwen | GRPO |
+| [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://github.com/sunnynexus/Search-o1) | [2025/01/09](https://github.com/sunnynexus/Search-o1) [![GitHub stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social)](https://github.com/sunnynexus/Search-o1) | GPT | N/A |
+| [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://github.com/sentient-agi/OpenDeepSearch) | [2025/03/26](https://github.com/sentient-agi/OpenDeepSearch) [![GitHub stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch?style=social)](https://github.com/sentient-agi/OpenDeepSearch) | GPT, Anthropic, Gemini | N/A |
+| [Webthinker: Empowering large reasoning models with deep research capability](https://github.com/RUC-NLPIR/WebThinker) | [2025/04/30](https://github.com/RUC-NLPIR/WebThinker) [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker) | Llama, Qwen, GPT | DPO |
+| [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-NLP/ZeroSearch) | [2025/05/07](https://github.com/Alibaba-NLP/ZeroSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearch?style=social)](https://github.com/Alibaba-NLP/ZeroSearch) | Llama, Qwen | GRPO, PPO, Reinforce++ |
