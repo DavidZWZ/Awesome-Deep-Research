@@ -1,7 +1,7 @@
 # 🤖 Awesome Agentic Deep Research Resources
 
 <p align="center">
-  <img src="deepresearch_framework.png" alt="DeepResearch Framework" width="80%" />
+  <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
 </p>
 
 Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of Agentic Deep Research. We've meticulously curated a collection of:
