@@ -11,7 +11,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 ## Table of Contents
 - [🏢 Industry-leading products and solutions](#industry-leading-products)
 - [🔧 Open-source implementations and tools](#open-source-implementations)
-- [📚 Latest research papers and breakthroughs](#research-papers)
+- [📚 Latest research papers and breakthroughs](#recent-hot-research-papers)
 - [🎯 Evaluation benchmarks and practical applications](#benchmarks-and-applications)
 
 
@@ -27,21 +27,22 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ## Open-Source Implementations
+- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Quickstart for Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
+- [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag): Reasoning-augmented retrieval-augmented generation framework. ![GitHub Repo stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag?style=social)
 - [nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch): Lightweight deep research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=social)
 - [deep-research (Aomni)](https://github.com/dzhng/deep-research): Deep research platform by Aomni. ![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/deep-research?style=social)
-- [open-deep-research](https://github.com/btahir/open-deep-research): Open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/btahir/open-deep-research?style=social)
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
-- [deep-searcher](https://github.com/zilliztech/deep-searcher): Deep search and research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=social)
 - [deep-research (u14app)](https://github.com/u14app/deep-research): Deep research assistant by u14app. ![GitHub Repo stars](https://img.shields.io/github/stars/u14app/deep-research?style=social)
-- [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
+- [open-deep-research](https://github.com/btahir/open-deep-research): Open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/btahir/open-deep-research?style=social)
+- [deep-searcher](https://github.com/zilliztech/deep-searcher): Deep search and research toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/deep-searcher?style=social)
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Deep research toolkit to find the right answers. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
 - [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research): Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=social)
 - [langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research): Deep research workflows with LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social)
-- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Quickstart for Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
 
 
-## Research Papers
+
+## Recent Hot Research Papers
 
 | Title | Date & Code | Base model | Optimization methods |
 | --- | :---: | :---: | :---: |
@@ -54,6 +55,14 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 | [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://arxiv.org/pdf/2503.20201) | [2025/03/26](https://github.com/sentient-agi/OpenDeepSearch) [![GitHub stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch?style=social)](https://github.com/sentient-agi/OpenDeepSearch) | GPT, Anthropic, Gemini | N/A |
 | [Webthinker: Empowering large reasoning models with deep research capability](https://arxiv.org/abs/2504.21776) | [2025/04/30](https://github.com/RUC-NLPIR/WebThinker) [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker) | Llama, Qwen, GPT | DPO |
 | [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2505.04588) | [2025/05/07](https://github.com/Alibaba-NLP/ZeroSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearch?style=social)](https://github.com/Alibaba-NLP/ZeroSearch) | Llama, Qwen | GRPO, PPO, Reinforce++ |
+| [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866) | [2025/04/11](https://github.com/pangu-tech/pangu-ultra) [![GitHub stars](https://img.shields.io/github/stars/pangu-tech/pangu-ultra?style=social)](https://github.com/pangu-tech/pangu-ultra) |  |  |
+| [s3 - Efficient Yet Effective Search Agent Training via RL](https://arxiv.org/abs/2505.14146) | [2025/05/20](https://github.com/pat-jj/s3) [![GitHub stars](https://img.shields.io/github/stars/pat-jj/s3?style=social)](https://github.com/pat-jj/s3) |  |  |
+| [Demystifying and Enhancing the Efficiency of Large Language Model Based Search Agents](https://arxiv.org/pdf/2505.12065) | [2025/05/17](https://github.com/tiannuo-yang/SearchAgent-X) [![GitHub stars](https://img.shields.io/github/stars/tiannuo-yang/SearchAgent-X?style=social)](https://github.com/tiannuo-yang/SearchAgent-X) |  |  |
+| [Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069) | [2025/05/22](https://github.com/wlzhang2020/ReasonRAG) [![GitHub stars](https://img.shields.io/github/stars/wlzhang2020/ReasonRAG?style=social)](https://github.com/wlzhang2020/ReasonRAG) |  |  |
+| [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [2025/05/22](https://github.com/RUCAIBox/R1-Searcher-plus) [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher-plus?style=social)](https://github.com/RUCAIBox/R1-Searcher-plus) |  |  |
+| [MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/pdf/2505.20285) | [2025/05/27](https://github.com/Alibaba-NLP/MaskSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/MaskSearch?style=social)](https://github.com/Alibaba-NLP/MaskSearch) |  |  |
+| [RAG-Gym: Systematic Optimization of Language Agents for Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.13957v2) | [2025/05/31](https://github.com/RAG-Gym/RAG-Gym) [![GitHub stars](https://img.shields.io/github/stars/RAG-Gym/RAG-Gym?style=social)](https://github.com/RAG-Gym/RAG-Gym) |  |  |
+| [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454) | [2025/06/03]() |  |  |
 
 
 ## Benchmarks and Applications
