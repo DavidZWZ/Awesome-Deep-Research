@@ -55,11 +55,10 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 ## Latest Research Papers
 
 🔥🔥🔥 This section showcases the most recent and impactful research papers in the field of Agentic Deep Research. Each paper represents a significant advancement in the development of autonomous research agents, search capabilities, and reasoning frameworks. The papers are organized chronologically, with the most recent publications at the top. Key areas covered include:
-- 🔍 Search-enhanced reasoning models
 - 🤖 Agentic frameworks for deep research
-- 🧠 Search Agents with Reinforcement learning
-- 🔄 Reasoning and Retrieval-augmented generation
-- 🌐 Web-based deep research
+- 🔍 Search-enhanced reasoning models
+- 🌐 Web agents for deep research
+- 🔄 Reasoning and retrieval-augmented generation
 - 📊 Multimodal deep research
 
 🚀🚀🚀 Stay tuned for the hottest breakthroughs in the field!
