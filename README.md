@@ -1,5 +1,15 @@
 # 🤖 Awesome Agentic Deep Research Resources
 
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Code](https://img.shields.io/badge/Code-GithubRepo-c8a4bf.svg)](https://github.com/DavidZWZ/Awesome-Deep-Research) 
+[![arXiv](https://img.shields.io/badge/arXiv-Agentic_Deep_Research-b31b1b.svg)]()
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+
 Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of Agentic Deep Research. We've meticulously curated a collection of resources for you.
 
 <p align="center">
