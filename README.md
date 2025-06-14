@@ -11,7 +11,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 ## Table of Contents
 - [🏢 Industry-leading products and solutions](#industry-leading-products)
 - [🔧 Open-source implementations and tools](#open-source-implementations)
-- [📚 Latest research papers and breakthroughs](#recent-hot-research-papers)
+- [📚 Latest research papers and breakthroughs](#latest-research-papers)
 - [🎯 Evaluation benchmarks and practical applications](#benchmarks-and-applications)
 
 
@@ -42,7 +42,18 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 
-## Recent Hot Research Papers
+## Latest Research Papers
+
+🔥 This section showcases the most recent and impactful research papers in the field of Agentic Deep Research. Each paper represents a significant advancement in the development of autonomous research agents, search capabilities, and reasoning frameworks. The papers are organized chronologically, with the most recent publications at the top.
+
+Key areas covered include:
+- 🔍 Search-enhanced reasoning models
+- 🤖 Agentic frameworks for deep research
+- 🧠 Search Agents with Reinforcement learning
+- 🔄 Reasoning and Retrieval-augmented generation
+- 🌐 Web-based deep research capabilities
+- 📊 Multimodal deep research systems
+🚀 Stay tuned for the hottest breakthroughs in the field!
 
 | Title | Date & Code | Base model | Optimization methods |
 | --- | :---: | :---: | :---: |
