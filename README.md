@@ -63,7 +63,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 🚀🚀🚀 Stay tuned for the hottest breakthroughs in the field!
 
-| Title | Date & Code | Base LLM model | Optimization/Implementation methods |
+| Title | Date & Code | Base LLM model | Optimization |
 | --- | :---: | :---: | :---: |
 | [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/pdf/2501.05366) | [2025/01/09](https://github.com/sunnynexus/Search-o1) [![GitHub stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social)](https://github.com/sunnynexus/Search-o1) | Qwen | Prompting |
 | [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/abs/2502.04644) | [2025/02/07](https://github.com/theworldofagents/Agentic-Reasoning) [![GitHub stars](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning?style=social)](https://github.com/theworldofagents/Agentic-Reasoning) | N/A | Prompting |
