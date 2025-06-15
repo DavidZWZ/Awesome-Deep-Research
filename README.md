@@ -65,7 +65,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 | Title | Date & Code | Base model | Optimization methods |
 | --- | :---: | :---: | :---: |
-| [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/pdf/2501.05366) | [2025/01/09](https://github.com/sunnynexus/Search-o1) [![GitHub stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social)](https://github.com/sunnynexus/Search-o1) | OpenAI models | Prompting |
+| [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/pdf/2501.05366) | [2025/01/09](https://github.com/sunnynexus/Search-o1) [![GitHub stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social)](https://github.com/sunnynexus/Search-o1) | Qwen | Prompting |
 | [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/abs/2502.04644) | [2025/02/07](https://github.com/theworldofagents/Agentic-Reasoning) [![GitHub stars](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning?style=social)](https://github.com/theworldofagents/Agentic-Reasoning) | N/A | Prompting |
 | [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160?) | [2025/03/26](https://github.com/GAIR-NLP/DeepResearcher) [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=social)](https://github.com/GAIR-NLP/DeepResearcher) | Qwen | RL |
 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516) | [2025/03/12](https://github.com/PeterGriffinJin/Search-R1) [![GitHub stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social)](https://github.com/PeterGriffinJin/Search-R1) | Qwen, Llama | RL |
@@ -81,7 +81,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [2025/05/22](https://github.com/RUCAIBox/R1-Searcher-plus) [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher-plus?style=social)](https://github.com/RUCAIBox/R1-Searcher-plus) | Qwen, Llama | RL, SFT |
 | [MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/pdf/2505.20285) | [2025/05/27](https://github.com/Alibaba-NLP/MaskSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/MaskSearch?style=social)](https://github.com/Alibaba-NLP/MaskSearch) | Qwen | RL, SFT |
 | [RAG-Gym: Systematic Optimization of Language Agents for Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.13957v2) | [2025/05/31](https://github.com/RAG-Gym/RAG-Gym) [![GitHub stars](https://img.shields.io/github/stars/RAG-Gym/RAG-Gym?style=social)](https://github.com/RAG-Gym/RAG-Gym) | Llama, Qwen | RL |
-| [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454) | [2025/06/03]() | Claude 3 Sonnet | Prompting |
+| [Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework](https://arxiv.org/abs/2506.02454) | [2025/06/03]() | Claude | Prompting |
 
 
 ## Benchmarks and Applications
