@@ -85,3 +85,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ## Benchmarks and Applications
+- [HLE](https://github.com/centerforaisafety/hle): [Humanity's Last Exam](https://arxiv.org/abs/2501.14249) ![GitHub Repo stars](https://img.shields.io/github/stars/centerforaisafety/hle?style=social)
+- [BrowseComp](https://github.com/openai/simple-evals): [Benchmark for Browsing Agents](https://arxiv.org/pdf/2504.12516) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/simple-evals?style=social)
+- [BrowseComp-ZH](https://github.com/PALIN2018/BrowseComp-ZH): [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/pdf/2504.19314) ![GitHub Repo stars](https://img.shields.io/github/stars/PALIN2018/BrowseComp-ZH?style=social)
+- [MedBrowseComp](https://github.com/shan23chen/MedBrowseComp): [MedBrowseComp: Benchmarking Medical Deep Research and Computer Use](https://arxiv.org/pdf/2505.14963) ![GitHub Repo stars](https://img.shields.io/github/stars/shan23chen/MedBrowseComp?style=social)
