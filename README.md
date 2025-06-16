@@ -37,7 +37,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ## Open-Source Implementations
-- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Quickstart for Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
+- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag): Reasoning-augmented retrieval-augmented generation framework. ![GitHub Repo stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag?style=social)
