@@ -34,7 +34,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=manus.im" width="20" style="vertical-align: -10px;"/> [Manus](https://manus.im/): Advanced research and analysis platform (March 6, 2025)
 - 🦌 [DeerFlow](https://deerflow.tech/): ByteDance's research and analysis solution (May 9, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=chat.qwen.ai" width="16" style="vertical-align: -15px;"/> [Deep Research](https://chat.qwen.ai/?inputFeature=deep_research): Alibaba's Qwen-powered research assistant (May 14, 2025)
-- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="20" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="16" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
 
 
 ## Open-Source Implementations
