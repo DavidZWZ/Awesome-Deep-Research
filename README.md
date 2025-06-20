@@ -38,6 +38,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 ## Open-Source Implementations
 - [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
+- [multi-agent research system](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts): Multi-agent research system by Anthropic. [Blog post](https://www.anthropic.com/engineering/built-multi-agent-research-system) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=social)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source deep research framework. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [r1-reasoning-rag](https://github.com/deansaco/r1-reasoning-rag): Reasoning-augmented retrieval-augmented generation framework. ![GitHub Repo stars](https://img.shields.io/github/stars/deansaco/r1-reasoning-rag?style=social)
@@ -49,7 +50,6 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch): Deep research toolkit to find the right answers. ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/node-DeepResearch?style=social)
 - [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research): Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research?style=social)
 - [langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research): Deep research workflows with LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social)
-
 
 
 ## Latest Research Papers
