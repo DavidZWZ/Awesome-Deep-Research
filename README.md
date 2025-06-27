@@ -116,11 +116,11 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 **Adding New Research Papers and Benchmarks:**
 - Submit an issue with the paper details (title, arXiv link, GitHub repo if available)
-- Or create a pull request with the paper added to the research papers table
+- Or create a pull request with the paper added to the research papers table or the benchmarks section
 
 **Adding New Open-Source Implementations and New Products:**
 - Submit an issue with the repository details (name, description, release data, GitHub link if available)
-- Or create a pull request with the implementation added to the open-source section
+- Or create a pull request with the implementation added to the open-source and products section
 
 
 ### 📖 Citation
