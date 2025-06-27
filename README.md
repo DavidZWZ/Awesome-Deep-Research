@@ -110,9 +110,9 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 ## Contributing and Citations
 
-We welcome contributions to expand this comprehensive collection of Agentic Deep Research resources! 
+🤝 We welcome contributions to expand this comprehensive collection of Agentic Deep Research resources! 
 
-### How to Contribute
+### 📝 How to Contribute
 
 **Adding New Research Papers and Benchmarks:**
 - Submit an issue with the paper details (title, arXiv link, GitHub repo if available)
@@ -122,11 +122,10 @@ We welcome contributions to expand this comprehensive collection of Agentic Deep
 - Submit an issue with the repository details (name, description, release data, GitHub link if available)
 - Or create a pull request with the implementation added to the open-source section
 
-We appreciate your contributions to building this comprehensive resource for the research community!
 
-### Citation
+### 📖 Citation
 
-If you find this repository useful, please cite our paper:
+🔥🔥🔥 If you find this repository useful, please cite our paper:
 
 ```bibtex
 @article{zhang2025web,
