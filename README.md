@@ -16,7 +16,7 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
   <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
 </p>
 
-Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
+Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents. For a detailed analysis of the changing paradigm in information search, check out our position paper: **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)** 📄, which outlines existing domain trends and future directions.
 
 ## Table of Contents
 - [🎯 Industry-leading products and solutions](#industry-leading-products)
