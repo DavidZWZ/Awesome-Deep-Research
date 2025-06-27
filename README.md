@@ -19,10 +19,11 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
 Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents.
 
 ## Table of Contents
-- [🏢 Industry-leading products and solutions](#industry-leading-products)
+- [🎯 Industry-leading products and solutions](#industry-leading-products)
 - [🔧 Open-source implementations and tools](#open-source-implementations)
 - [📚 Latest research papers and breakthroughs](#latest-research-papers)
-- [🎯 Evaluation benchmarks and practical applications](#benchmarks-and-applications)
+- [🏆 Evaluation benchmarks and practical applications](#benchmarks-and-applications)
+- [🤝 Contributing and Citations](#contributing-and-citations)
 
 
 ## Industry-Leading Products
@@ -104,3 +105,34 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents [[Paper]](https://arxiv.org/pdf/2506.11763) [[Code]](https://github.com/Ayanami0730/deep_research_bench) ![GitHub Repo stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=social)
 - MedBrowseComp: Benchmarking Medical Deep Research and Computer Use [[Paper]](https://arxiv.org/pdf/2505.14963) [[Code]](https://github.com/shan23chen/MedBrowseComp) ![GitHub Repo stars](https://img.shields.io/github/stars/shan23chen/MedBrowseComp?style=social)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge [[Paper]](https://arxiv.org/pdf/2506.21506) [[Code]](https://github.com/OSU-NLP-Group/Mind2Web-2) ![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web-2?style=social)
+
+
+
+## Contributing and Citations
+
+We welcome contributions to expand this comprehensive collection of Agentic Deep Research resources! 
+
+### How to Contribute
+
+**Adding New Research Papers and Benchmarks:**
+- Submit an issue with the paper details (title, arXiv link, GitHub repo if available)
+- Or create a pull request with the paper added to the research papers table
+
+**Adding New Open-Source Implementations and New Products:**
+- Submit an issue with the repository details (name, description, release data, GitHub link if available)
+- Or create a pull request with the implementation added to the open-source section
+
+We appreciate your contributions to building this comprehensive resource for the research community!
+
+### Citation
+
+If you find this repository useful, please cite our paper:
+
+```bibtex
+@article{zhang2025web,
+  title={From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents},
+  author={Zhang, Weizhi and Li, Yangning and Bei, Yuanchen and Luo, Junyu and Wan, Guancheng and Yang, Liangwei and Xie, Chenxuan and Yang, Yuyao and Huang, Wei-Chieh and Miao, Chunyu and others},
+  journal={arXiv preprint arXiv:2506.18959},
+  year={2025}
+}
+```
