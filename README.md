@@ -16,7 +16,7 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
   <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
 </p>
 
-Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents. For a detailed analysis of the changing paradigm in information search, check out our position paper: **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)** 📄, which outlines existing domain trends and future directions.
+Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents. For a detailed analysis of the changing paradigm in information search, check out our position paper: **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)** 📄, which outlines existing domain trends and future directions. For researchers interested in the broader intersection of RAG and Reasoning, we also recommend exploring our comprehensive collection at **[Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)** 🔥🔥🔥.
 
 ## Table of Contents
 - [🎯 Industry-leading products and solutions](#industry-leading-products)
@@ -128,13 +128,20 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 ### 📖 Citation
 
-🔥🔥🔥 If you find this repository useful, please cite our paper:
+🔥🔥🔥 If you find this repository useful, please cite our papers:
 
 ```bibtex
 @article{zhang2025web,
   title={From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents},
   author={Zhang, Weizhi and Li, Yangning and Bei, Yuanchen and Luo, Junyu and Wan, Guancheng and Yang, Liangwei and Xie, Chenxuan and Yang, Yuyao and Huang, Wei-Chieh and Miao, Chunyu and others},
   journal={arXiv preprint arXiv:2506.18959},
+  year={2025}
+}
+
+@article{li2025towards,
+  title={Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs},
+  author={Li, Yangning and Zhang, Weizhi and Yang, Yuyao and Huang, Wei-Chieh and Wu, Yaozu and Luo, Junyu and Bei, Yuanchen and Zou, Henry Peng and Luo, Xiao and Zhao, Yusheng and others},
+  journal={arXiv preprint arXiv:2507.09477},
   year={2025}
 }
 ```
