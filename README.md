@@ -55,7 +55,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research): Deep research workflows with LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social)
 - [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent): Deep research agent by SkyworkAI. ![GitHub Repo stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=social)
 - [OpenManus](https://github.com/FoundationAgents/OpenManus): An open-source framework for building general AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
-
+- [AtomSearcher](https://github.com/antgroup/Research-Venus): An Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)
 
 ## Latest Research Papers
 
@@ -95,6 +95,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 | [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/pdf/2505.16834) | [2025/05/25](https://github.com/RUCAIBox/SimpleDeepSearcher?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/RUCAIBox/SimpleDeepSearcher?style=social)](https://github.com/weizhepei/WebAgent-R1) | Qwen2.5-7B-Instruct, Qwen2.5-32B-Instruct, DeepseekDistilled-Qwen2.5-32B, QwQ-32B | SFT | Web Search | Single-Agent | NQ, SimpleQA, HotpotQA, 2WikiMultiHopQA, MuSiQue, MultiHopRAG | Bamboogle, FRAMES, GAIA, NQ, SimpleQA, HotpotQA, 2WikiMultiHopQA, MuSiQue, MultiHopRAG |
 | [MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/pdf/2505.20285) | [2025/05/27](https://github.com/Alibaba-NLP/MaskSearch) [![GitHub stars](https://img.shields.io/github/stars/Alibaba-NLP/MaskSearch?style=social)](https://github.com/Alibaba-NLP/MaskSearch) | Llama3.1-8B, Llama3.2-3B, Llama3.2-1B, Llama3, Qwen2.5-7B, Qwen2.5-3B, Qwen2.5-1.5B, Qwen2.5 | SFT, RL(DAPO) | Local Retrieval | Multi-Agent | HotpotQA | HotpotQA, FanoutQA, Musique, 2WikiMultiHopQA, Bamboogle, FreshQA |
 | [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/pdf/2506.20670) | [2025/06/25](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) [![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1?style=social)](https://github.com/RAG-Gym/RAG-Gym) | Qwen2.5-VL-7B | RL(GRPO) | Web Search | Single-Agent | VQA, MetaClip, FVQA, InfoSeek | FVQA-test, InfoSeek, MMSearch, SimpleVQA, LiveVQA |
+| [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.12800) | [2025/08/18](https://github.com/antgroup/Research-Venus) [![GitHub stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)](https://github.com/antgroup/Research-Venus) | Qwen2.5-7B | RL(GRPO) | Web Search | Single-Agent | NQ, SimpleQA, HotpotQA, 2WikiMultiHopQA, MuSiQue, MultiHopRAG | Bamboogle,  NQ, SimpleQA, HotpotQA, 2WikiMultiHopQA, MuSiQue, MultiHopRAG |
 
 ## Benchmarks and Applications
 
