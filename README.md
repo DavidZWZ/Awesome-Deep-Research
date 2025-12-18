@@ -55,6 +55,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research): Deep research workflows with LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social)
 - [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent): Deep research agent by SkyworkAI. ![GitHub Repo stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=social)
 - [OpenManus](https://github.com/FoundationAgents/OpenManus): An open-source framework for building general AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready Multi-AI Agents framework with built-in deep research capabilities, query rewrite, and RAG optimization. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [AtomSearcher](https://github.com/antgroup/Research-Venus): An Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)
 
 ## Latest Research Papers
