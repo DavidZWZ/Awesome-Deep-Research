@@ -58,6 +58,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [OpenManus](https://github.com/FoundationAgents/OpenManus): An open-source framework for building general AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready multi-agent framework with built-in deep research capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [AtomSearcher](https://github.com/antgroup/Research-Venus): An Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)
+- [Local Deep Research](https://github.com/LearningCircuit/local-deep-research): Local-first deep agentic research framework with multi-source retrieval (web, arXiv, PubMed, private documents) and 20+ research strategies. ![GitHub Repo stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
 
 ## Latest Research Papers
 
