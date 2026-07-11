@@ -58,6 +58,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [OpenManus](https://github.com/FoundationAgents/OpenManus): An open-source framework for building general AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready multi-agent framework with built-in deep research capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [AtomSearcher](https://github.com/antgroup/Research-Venus): An Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)
+- [Agon](https://github.com/AutoResearch-Factory/Agon): Prompt Economy is the cornerstone (reusable loops instead of one prompt per task), with five more design rules layered on top; scientist/coder/auditor agents, 18 roles total. ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
 
 ## Latest Research Papers
 
@@ -139,6 +140,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents [[Paper]](https://arxiv.org/pdf/2506.11763) [[Code]](https://github.com/Ayanami0730/deep_research_bench) ![GitHub Repo stars](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench?style=social)
 - MedBrowseComp: Benchmarking Medical Deep Research and Computer Use [[Paper]](https://arxiv.org/pdf/2505.14963) [[Code]](https://github.com/shan23chen/MedBrowseComp) ![GitHub Repo stars](https://img.shields.io/github/stars/shan23chen/MedBrowseComp?style=social)
 - Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge [[Paper]](https://arxiv.org/pdf/2506.21506) [[Code]](https://github.com/OSU-NLP-Group/Mind2Web-2) ![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web-2?style=social)
+- PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting [[Paper]](https://arxiv.org/abs/2606.08878) [[Code]](https://github.com/WhymustIhaveaname/PerspectiveGap) ![GitHub Repo stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=social)
 
 
 
