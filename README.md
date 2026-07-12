@@ -58,7 +58,10 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [OpenManus](https://github.com/FoundationAgents/OpenManus): An open-source framework for building general AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready multi-agent framework with built-in deep research capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [AtomSearcher](https://github.com/antgroup/Research-Venus): An Automated deep research agent. ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/Research-Venus?style=social)
-- [Agon](https://github.com/AutoResearch-Factory/Agon): Prompt Economy is the cornerstone (reusable loops instead of one prompt per task), with five more design rules layered on top; scientist/coder/auditor agents, 18 roles total. ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
+- [Agon](https://github.com/AutoResearch-Factory/Agon): Prompt Economy is the cornerstone, with five more design rules layered on top; scientist/coder/auditor agents, 18 roles total. ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
+- [Open Deep Research (Web UI)](https://github.com/extracurricular-ai/open-deep-research-with-web-ui): Self-hostable deep research agent built on smolagents, with a real-time web UI (DDGS/Tavily/SerpAPI/MetaSo/Bocha) with auto-fallback. ![GitHub Repo stars](https://img.shields.io/github/stars/extracurricular-ai/open-deep-research-with-web-ui?style=social)
+- [Local Deep Research](https://github.com/LearningCircuit/local-deep-research): Local-first deep agentic research framework with multi-source retrieval (web, arXiv, PubMed, private documents) and 20+ research strategies. ![GitHub Repo stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
+
 
 ## Latest Research Papers
 
@@ -76,6 +79,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 | --- | :---: | --- | --- | --- | --- | --- | --- |
 | [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | [2026/04/02](https://github.com/Human-Agent-Society/CORAL) [![GitHub stars](https://img.shields.io/github/stars/Human-Agent-Society/CORAL?style=social)](https://github.com/Human-Agent-Society/CORAL) | Claude (agent backbone) | Evolutionary Search (heartbeat-guided) | – | Multi-Agent | – | 10 math/algorithmic/systems benchmarks (incl. Anthropic kernel-engineering) |
 | [Dr. Zero: Self-Evolving Search Agents without Training Data](https://arxiv.org/abs/2601.07055) | [2026/01/11](https://github.com/facebookresearch/drzero) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/drzero?style=social)](https://github.com/facebookresearch/drzero) | Qwen2.5-3B-Instruct, Qwen2.5-7B-Instruct | HRPO | Web Search | Multi-Agent | – | NQ, TriviaQA, PopQA, HotpotQA, 2WikiMultihopQA (2WikiMQA), MuSiQue, Bamboogle |
+| [Over-Searching in Search-Augmented Large Language Models](https://arxiv.org/abs/2601.05503) | [2026/01/09](https://github.com/apple/ml-over-searching) [![GitHub stars](https://img.shields.io/github/stars/apple/ml-over-searching?style=social)](https://github.com/apple/ml-over-searching) | Frontier + Open-source LLMs | Prompting (Evaluation & Mitigation) | Web Search, Local Retrieval | Single-Agent | – | OverSearchQA |
 | [LEAPS: An LLM-Empowered Adaptive Plugin for Taobao AI Search](https://arxiv.org/abs/2601.05513) | [2026/01/09]() | Qwen3-14B | REINFORCE++, GRPO, GSPO | Local Retrieval | Single-Agent | – | – |
 | [SmartSearch: Process Reward-Guided Query Refinement for Search Agents](https://arxiv.org/abs/2601.04888) | [2026/01/08](https://github.com/RUC-NLPIR/SmartSearch) [![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/SmartSearch?style=social)](https://github.com/RUC-NLPIR/SmartSearch) | Qwen2.5-3B-Instruct | SFT, DPO, GRPO | Web Search | Single-Agent | Asearcher-Base | 2WikiMultihopQA, HotpotQA, Bamboogle, MuSiQue, GAIA, WebWalker |
 | [O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2601.03743v1) | [2026/01/07](https://github.com/OPPO-PersonalAI/O-Researcher) [![GitHub stars](https://img.shields.io/github/stars/OPPO-PersonalAI/O-Researcher?style=social)](https://github.com/OPPO-PersonalAI/O-Researcher) | Qwen-2.5-72B-Instruct | GRPO | Web Search | Multi-Agent | Zhihu-KOL, WideSearch, ELI5 | DeepResearch Bench, DeepResearchGym |
@@ -178,3 +182,8 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
   year={2025}
 }
 ```
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
