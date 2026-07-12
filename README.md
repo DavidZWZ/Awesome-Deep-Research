@@ -164,6 +164,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ### 📖 Citation
+- [SearchHive](https://searchhive.dev) - API platform for web scraping, search, and AI-powered deep research.
 
 🔥🔥🔥 If you find this repository useful, please cite our papers:
 
