@@ -61,6 +61,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [Agon](https://github.com/AutoResearch-Factory/Agon): Prompt Economy is the cornerstone, with five more design rules layered on top; scientist/coder/auditor agents, 18 roles total. ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
 - [Open Deep Research (Web UI)](https://github.com/extracurricular-ai/open-deep-research-with-web-ui): Self-hostable deep research agent built on smolagents, with a real-time web UI (DDGS/Tavily/SerpAPI/MetaSo/Bocha) with auto-fallback. ![GitHub Repo stars](https://img.shields.io/github/stars/extracurricular-ai/open-deep-research-with-web-ui?style=social)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research): Local-first deep agentic research framework with multi-source retrieval (web, arXiv, PubMed, private documents) and 20+ research strategies. ![GitHub Repo stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
+- [AutoSearch](https://github.com/0xmariowu/Autosearch): MCP-native, LLM-decoupled search layer for deep research agents, spanning 40 channels (academic, code, community, Chinese sources) with deduplicated and source-attributed results; usable as a Claude Code plugin, CLI, or MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=social)
 
 
 ## Latest Research Papers
