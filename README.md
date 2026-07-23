@@ -38,6 +38,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=chat.qwen.ai" width="16" style="vertical-align: -15px;"/> [Deep Research](https://chat.qwen.ai/?inputFeature=deep_research): Alibaba's Qwen-powered research assistant (May 14, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="16" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=nothumansearch.ai" width="20" style="vertical-align: -10px;"/> [Not Human Search](https://nothumansearch.ai): Search engine for AI agents. Available as MCP server for tool discovery.
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=searchhive.dev" width="20" style="vertical-align: -10px;"/> [SearchHive](https://searchhive.dev): API platform for web scraping, search, and AI-powered deep research.
 
 
 ## Open-Source Implementations
@@ -138,6 +139,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
   <img src="./Assets/bench.png" alt="Benchmarks Plot" width="80%" />
 </p>
 
+- REFUTE: Benchmark for scientific critique and epistemic calibration on recent (2025–2026) science summaries, separating critique skill from calibrated truthfulness [[Report]](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) [[Data]](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) [[Leaderboard]](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)
 - Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) [[Code]](https://github.com/centerforaisafety/hle) ![GitHub Repo stars](https://img.shields.io/github/stars/centerforaisafety/hle?style=social)
 - BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents [[Paper]](https://arxiv.org/pdf/2504.12516) [[Code]](https://github.com/openai/simple-evals) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/simple-evals?style=social)
 - BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese ['[Paper]'](https://arxiv.org/pdf/2504.19314) [[Code]](https://github.com/PALIN2018/BrowseComp-ZH) ![GitHub Repo stars](https://img.shields.io/github/stars/PALIN2018/BrowseComp-ZH?style=social)
@@ -164,7 +166,6 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ### 📖 Citation
-- [SearchHive](https://searchhive.dev) - API platform for web scraping, search, and AI-powered deep research.
 
 🔥🔥🔥 If you find this repository useful, please cite our papers:
 
@@ -183,8 +184,3 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
   year={2025}
 }
 ```
-
-
-## Benchmarks
-
-- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
