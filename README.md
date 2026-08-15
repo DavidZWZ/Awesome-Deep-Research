@@ -42,6 +42,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ## Open-Source Implementations
+- [Dr. Claw](https://github.com/OpenLAIR/dr-claw): Local, model-agnostic research workspace spanning survey, ideation, experiment, publication, and promotion. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)
 - [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart): Gemini fullstack and LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=social)
 - [multi-agent research system](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts): Multi-agent research system by Anthropic. [Blog post](https://www.anthropic.com/engineering/built-multi-agent-research-system) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=social)
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): Autonomous agent for comprehensive research tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
