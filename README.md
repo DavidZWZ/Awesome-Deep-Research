@@ -224,6 +224,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - DeepStress: Stress-Testing Deep Search Agents [[Paper]](https://arxiv.org/abs/2607.13920)
 - DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments [[Paper]](https://arxiv.org/abs/2607.17291)
 - Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark [[Paper]](https://arxiv.org/abs/2606.18648) [[Code]](https://github.com/yigengjiang/physci-deepresearch) ![GitHub Repo stars](https://img.shields.io/github/stars/yigengjiang/physci-deepresearch?style=social)
+- Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision [[Paper]](https://aclanthology.org/2026.acl-long.609/) [[Code]](https://github.com/BaleChen/Mr-Dre) ![GitHub Repo stars](https://img.shields.io/github/stars/BaleChen/Mr-Dre?style=social)
 
 
 
