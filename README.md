@@ -63,6 +63,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - [Open Deep Research (Web UI)](https://github.com/extracurricular-ai/open-deep-research-with-web-ui): Self-hostable deep research agent built on smolagents, with a real-time web UI (DDGS/Tavily/SerpAPI/MetaSo/Bocha) with auto-fallback. ![GitHub Repo stars](https://img.shields.io/github/stars/extracurricular-ai/open-deep-research-with-web-ui?style=social)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research): Local-first deep agentic research framework with multi-source retrieval (web, arXiv, PubMed, private documents) and 20+ research strategies. ![GitHub Repo stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
 - [AutoSearch](https://github.com/0xmariowu/Autosearch): MCP-native, LLM-decoupled search layer for deep research agents, spanning 40 channels (academic, code, community, Chinese sources) with deduplicated and source-attributed results; usable as a Claude Code plugin, CLI, or MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=social)
+- [Raven](https://github.com/EverMind-AI/Raven): Multi-agent harness whose built-in Raven-Research agent performs autonomous deep research and writes structured reports with traceable sources; a host agent orchestrates it with other built-in and third-party agents as task DAGs. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 
 
 ## Latest Research Papers
