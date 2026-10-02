@@ -16,7 +16,7 @@ Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehens
   <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
 </p>
 
-Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents. For a detailed analysis of the changing paradigm in information search, check out our position paper: **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)** 📄, which outlines existing domain trends and future directions. For researchers interested in the broader intersection of RAG and Reasoning, we also recommend exploring our comprehensive collection at **[Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)** 🔥🔥🔥.
+Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents. For a detailed analysis of the changing paradigm in information search, check out our position paper: **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning§ Agents](https://arxiv.org/abs/2506.18959)** 📄, which outlines existing domain trends and future directions. For researchers interested in the broader intersection of RAG and Reasoning, we also recommend exploring our comprehensive collection at **[Awesome-RAG-Reasoning](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)** 🔥🔥🔥.
 
 ## Table of Contents
 - [🎯 Industry-leading products and solutions](#industry-leading-products)
@@ -27,7 +27,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 
 ## Industry-Leading Products
-- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=gemini.google.com" width="20" style="vertical-align: -10px;"/> [Gemini Deep Research](https://gemini.google/overview/deep-research/?hl=en): Google's advanced research assistant for deep analysis (December 11, 2024)
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=gemini.google.com" width="20" style="vertical-align: -10px;- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=exa.ai" width="20" style="vertical-align: -10px;"/> [Agent Ultra](https://exa.ai/blog/exa-agent-ultra): Exa's highest-effort deep research API mode — subagent swarms coordinating thousands of sources, SOTA on WANDR, DeepSearchQA, WideSearch and Find-All Company vs Opus 5.5, GPT-6 Astra and Perplexity Agent (September 26, 2026)"/> [Gemini Deep Research](https://gemini.google/overview/deep-research/?hl=en): Google's advanced research assistant for deep analysis (December 11, 2024)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=openai.com" width="20" style="vertical-align: -10px;"/> [Deep Research](https://openai.com/index/introducing-deep-research/): OpenAI's deep research platform [[API Guide]](https://cookbook.openai.com/examples/deep_research_api/introduction_to_deep_research_api) (February 2, 2025) 
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=perplexity.ai" width="16" style="vertical-align: -15px;"/> [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research): Perplexity's product for in-depth research and analysis (February 14, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=x.ai" width="20" style="vertical-align: -10px;"/> [Grok Agents](https://x.ai/news/grok-3): xAI's autonomous DeepSearch agents powered by Grok-3 (February 19, 2025)
@@ -39,6 +39,8 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="16" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=nothumansearch.ai" width="20" style="vertical-align: -10px;"/> [Not Human Search](https://nothumansearch.ai): Search engine for AI agents. Available as MCP server for tool discovery.
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=searchhive.dev" width="20" style="vertical-align: -10px;"/> [SearchHive](https://searchhive.dev): API platform for web scraping, search, and AI-powered deep research.
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=exa.ai" width="20" style="vertical-align: -10px;"/> [Agent Ultra](https://exa.ai/blog/exa-agent-ultra): Exa's highest-effort deep research API mode — subagent swarms coordinating thousands of sources, SOTA on WANDR, DeepSearchQA, WideSearch and Find-All Company vs Opus 5.5, GPT-6 Astra and Perplexity Agent (September 26, 2026)
+- 
 
 
 ## Open-Source Implementations
