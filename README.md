@@ -39,6 +39,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="16" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=nothumansearch.ai" width="20" style="vertical-align: -10px;"/> [Not Human Search](https://nothumansearch.ai): Search engine for AI agents. Available as MCP server for tool discovery.
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=searchhive.dev" width="20" style="vertical-align: -10px;"/> [SearchHive](https://searchhive.dev): API platform for web scraping, search, and AI-powered deep research.
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=yila.ai" width="20" style="vertical-align: -10px;"/> [Yila AI](https://yila.ai): Research workspace that turns a question, paper link, or uploaded PDF into a full-text grounded literature review, data analysis, figures, and slides, with each claim linked to its source.
 
 
 ## Open-Source Implementations
