@@ -39,6 +39,7 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=moonshot.cn" width="16" style="vertical-align: -10px;"/> [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/): Moonshot's research assistant powered by Kimi (June 20, 2025)
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=nothumansearch.ai" width="20" style="vertical-align: -10px;"/> [Not Human Search](https://nothumansearch.ai): Search engine for AI agents. Available as MCP server for tool discovery.
 - <img src="https://www.google.com/s2/favicons?sz=24&domain_url=searchhive.dev" width="20" style="vertical-align: -10px;"/> [SearchHive](https://searchhive.dev): API platform for web scraping, search, and AI-powered deep research.
+- <img src="https://www.google.com/s2/favicons?sz=24&domain_url=farsideresearch.com" width="20" style="vertical-align: -10px;"/> [Farside Research](https://farsideresearch.com): Deep research that grades sources and links every claim to its source passage. Available as a web app, REST API, and MCP server.
 
 
 ## Open-Source Implementations
